@@ -7,7 +7,7 @@ Y las licencias del Android Studio, que ya las estoy aceptando
 Atte. Carlos
 
 Los nombres son los siguientes:
-Axel Xavier Reyes Tenorio 20202001747
+Axel Xavier Reyes Tenorio 20202001747,
 Carlos Eduardo Argueta Rivera (2017-2001-120)
 
 
